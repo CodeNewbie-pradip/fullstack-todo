@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "app",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "updated",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "new todo",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "learn",
+        "completed": false
+    }
+]
